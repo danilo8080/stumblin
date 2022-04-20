@@ -29,7 +29,7 @@
 }
 
 .item:hover {
-    background-image: url(./img/notsignal.gif);
+    background-image: url("./img/notsignal.gif");
 }
 
 .item-2 {
@@ -55,11 +55,11 @@
 }
 
 .item-2:hover .item-2-1 {
-    background-image: url(./img/psicodelia.gif);
+    background-image: url("./img/psicodelia.gif");
 }
 
 .item-2:hover .harry-1 {
-    background-image: url(./img/psicodelia.gif);
+    background-image: url("./img/psicodelia.gif");
     transform: scale(0%) rotate(360deg);
 
     transition: transform 3s ease-in;
@@ -75,7 +75,7 @@
 }
 
 .cupa-1:hover {
-    background-image: url(./img/gif\ sex.webp);
+    background-image: url("./img/gif\ sex.webp");
     border-radius: 10%;
 
     transform: rotate(360deg) rotateY(360deg);
@@ -86,7 +86,7 @@
 }
 
 .item-8:hover {
-    background-image: url(./img/marcianoDance.gif);
+    background-image: url("./img/marcianoDance.gif");
 }
 
 .hider-1{
@@ -98,7 +98,7 @@
 }
 
 .hider-1:hover {
-    background-image: url(./img/hack.gif);
+    background-image: url("./img/hack.gif");
     background-size: 80%;
     background-repeat: no-repeat;
 
@@ -109,7 +109,7 @@
 }
 
 .item-5:hover {
-    background-image: url(./img/hackFinished.gif);
+    background-image: url("./img/hackFinished.gif");
     background-size: 20%;
     background-repeat: repeat; 
 }
@@ -123,20 +123,20 @@
 }
 
 .slash-1:hover {
-    background-image: url(./img/codigo.gif);
+    background-image: url("./img/codigo.gif");
     background-size: 100%;
     border-top-right-radius: 23%;
 }
 
 .item-9:hover {
-    background-image: url(/img/js-javascript.gif);
+    background-image: url("./img/js-javascript.gif");
     width: 100%;
     border-top-left-radius: 25%;
 }
 
 
 .item-6:hover {
-    background-image: url(./img/oldxxx.gif);
+    background-image: url("./img/oldxxx.gif");
     width: 100%;
     border-bottom-right-radius: 30px;
 }
@@ -167,18 +167,18 @@
     }
 
     .item-5:hover {
-        background-image: url(./img/hackFinished.gif);
+        background-image: url("./img/hackFinished.gif");
         background-size: 100%;
         background-repeat: repeat; 
     }
 
     .item-8:hover {
-        background-image: url(./img/marcianoDance.gif);
+        background-image: url("./img/marcianoDance.gif");
         background-size: 100%;
     }
 
     .cupa-1:hover {
-        background-image: url(./img/gif\ sex.webp);
+        background-image: url("./img/gif\ sex.webp");
         background-size: 100%;
         border-radius: 25%;
     
